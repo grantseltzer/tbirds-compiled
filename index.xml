@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>If I had a diner</title>
+    <link>/</link>
+    <description>Recent content on If I had a diner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 14:37:53 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A BIG SALAD</title>
+      <link>/menu/big-salad/</link>
+      <pubDate>Wed, 11 Nov 2020 14:37:53 -0500</pubDate>
+      
+      <guid>/menu/big-salad/</guid>
+      <description>yea, you know, a big salad</description>
+    </item>
+    
+    <item>
+      <title>Blog #1</title>
+      <link>/blog/test/</link>
+      <pubDate>Wed, 11 Nov 2020 14:37:53 -0500</pubDate>
+      
+      <guid>/blog/test/</guid>
+      <description>Wow I hate birds so much!!!!</description>
+    </item>
+    
+    <item>
+      <title>MOFONGO</title>
+      <link>/menu/mofongo/</link>
+      <pubDate>Wed, 11 Nov 2020 14:37:53 -0500</pubDate>
+      
+      <guid>/menu/mofongo/</guid>
+      <description>a biiiig lunch!</description>
+    </item>
+    
+    <item>
+      <title>FRUIT SALAD</title>
+      <link>/menu/fruit-salad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/menu/fruit-salad/</guid>
+      <description>I&amp;rsquo;m very particular about fruit salad. So much so that, I just can&amp;rsquo;t even handle thinking about someone who currently right now at this very moment is sitting here working on a website for their lovely babe who means the entire world to them, and they&amp;rsquo;re forced to endure the pain of just thinking about how someone out thre is just &amp;lsquo;enjoying&amp;rsquo; a fruit salad made with a lot of underripened melon and a single grape.</description>
+    </item>
+    
+  </channel>
+</rss>
